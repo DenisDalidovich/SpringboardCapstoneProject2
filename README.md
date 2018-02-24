@@ -6,7 +6,7 @@ https://www.kaggle.com/c/nyc-taxi-trip-duration. The file "NYCTripDuration_train
 should be renamed to to "NYCTripDuration.csv".
 
 The main Python code is in the file "NYTaxiTrips.ipynb".
-The Machine Learning algorithms are in the files: "NYTaxiTrips_linear.ipynb",
+The Machine Learning is done in the files: "NYTaxiTrips_linear.ipynb",
 "NYTaxiTrips_tree.ipynb" and "NYTaxiTrips_neural.ipynb"
 
 Final report is in the file "2nd_Capstone_Project_Report.pdf"
